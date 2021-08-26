@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Meeting at school",
+      "day": "Aug 3rd at 11:00AM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Run database migrations",
+      "day": "Aug 22nd at 2:00AM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Fix core module bug",
+      "day": "Sept 2rd at 1:00PM",
+      "reminder": false
+    },
+    {
+      "id": 69497,
+      "text": "Meet the client",
+      "day": "September 23rd 12:00PM",
+      "reminder": true
+    },
+    {
+      "id": 48220,
+      "text": "Go for teat or coffeesss",
+      "day": "sswqsw",
+      "reminder": false
+    }
+  ]
+}
